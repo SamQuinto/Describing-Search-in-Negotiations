@@ -1,0 +1,645 @@
+{
+  "roles": [
+    {
+      "role_name": "Party A",
+      "narrative": "You and four roommates made a pact at graduation to take a trip together. Eight years have passed, and that trip still has not happened. You have all stayed in touch, but you can feel yourselves slowly drifting apart. Now you are determined to plan a weekend vacation with them as a way to reconnect. You also know that each of you wants something a little different from this trip, and whether it happens at all will depend on whether you can reach an agreement in spite of these differences.\n\nYou like a relaxed pace when you travel. You do not enjoy feeling rushed or squeezed by a tight schedule, and you would rather have a few slow and meaningful moments than try to do everything. You also prefer calm evenings. After a full day, you like having time to wind down at night rather than keeping the energy going. You feel happiest when you and your friends are in the same space, doing things together, and sharing experiences as a group. You do not want the weekend to feel like separate solo trips happening in parallel. You would rather stay close to nature, so the weekend feels calmer and more refreshing. Being near the mountains helps the trip feel like a real break. When you imagine the ideal weekend, you do not care much what the main activity is, as long as it fits a relaxed rhythm and keeps the group together.\n\nAbout your friends:\nYou realize that while some of your friends share parts of your preferences, others do not. Some may want a fast pace with packed days, some may prefer busy evenings and nightlife, some may want more personal space even though you have not seen each other properly in years, and some may care more about staying in the city for convenience than being close to nature. It has been eight years since you all lived together, and a lot has changed, so whatever you remember about their travel styles might no longer be accurate. You know you will have to listen carefully and rediscover what matters to them during the conversation, while still trying to advocate for the things that matter most to you.\n\nYour task:\nYou already have a rough plan to visit a city with both a nearby mountain range and a lively urban center. But a couple of things on your itinerary remain undecided, which includes Sunday’s group activity. You and your friends have decided to hop on a video call to agree on the finer details of what to include or leave out of your plans, and you have narrowed it down to a discussion of ten issues. Below are your preferences for each one. Higher points mean greater satisfaction for you on that issue.\n\nImportantly, the five of you are a unit, so this trip is all-or-nothing: if you cannot agree on a plan, you would rather spend the week visiting your parents back home, which costs almost nothing and still feels like a proper break. Visiting your parents is worth zero points, so you will only agree to this vacation if you can find a plan that gives you a positive score.",
+      "BATNA": "Your best alternative to negotiated agreement ('BATNA') is to visit your parents, which is worth 0 points.",
+      "RP": 0,
+      "scoresheet": {
+        "Slow_mornings": [
+          {
+            "option": "Include",
+            "score": 0.78,
+            "reason": "Keeps the pace relaxed"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Multiple_activities_per_day": [
+          {
+            "option": "Include",
+            "score": -0.93,
+            "reason": "Too rushed; you want a lighter pace"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Calm_nights_in": [
+          {
+            "option": "Include",
+            "score": 0.57,
+            "reason": "Helps you wind down at night"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Enjoy_nightlife": [
+          {
+            "option": "Include",
+            "score": -0.42,
+            "reason": "Too late and draining"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Shared_rooms": [
+          {
+            "option": "Include",
+            "score": 0.14,
+            "reason": "More bonding time"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Separate_rooms": [
+          {
+            "option": "Include",
+            "score": -0.08,
+            "reason": "Feels too separate from the group"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Cabin_near_mountains": [
+          {
+            "option": "Include",
+            "score": 0.83,
+            "reason": "Nature setting feels like a real break"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Hotel_in_city": [
+          {
+            "option": "Include",
+            "score": -0.53,
+            "reason": "Less calm than staying near nature"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Sunday_hiking": [
+          {
+            "option": "Include",
+            "score": 0.0,
+            "reason": "No strong preference"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Sunday_city_exploration": [
+          {
+            "option": "Include",
+            "score": 0.0,
+            "reason": "No strong preference"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ]
+      }
+    },
+    {
+      "role_name": "Party B",
+      "narrative": "You and four roommates made a pact at graduation to take a trip together. Eight years have passed, and that trip still has not happened. You have all stayed in touch, but you can feel yourselves slowly drifting apart. Now you are determined to plan a weekend vacation with them as a way to reconnect. You also know that each of you wants something a little different from this trip, and whether it happens at all will depend on whether you can reach an agreement in spite of these differences.\n\nYou like a relaxed pace when you travel. You do not enjoy feeling rushed or squeezed by a tight schedule, and you would rather have a few slow and meaningful moments than try to do everything. You notably do not have strong feelings about evenings. You can go out or stay in depending on the group, as long as it does not create stress. You feel happiest when you can balance time with your friends and time on your own, so the trip feels social without becoming overwhelming. You enjoy the group, but you also need moments where you can recharge. You would rather stay in the city, so it is easy to get around and keep plans simple. You like the convenience of stepping out the door and being close to everything. When you imagine the ideal weekend, you picture a grounding outdoor day at an easy pace, with room to take space when you need it and regroup later.\n\nAbout your friends:\nYou realize that while some of your friends share parts of your preferences, others do not. Some may want a fast pace with packed days, some may prefer calm nights in or busy nights out more strongly than you do, some may want to spend most of the time together, and some may care more about staying close to nature than staying in the city. It has been eight years since you all lived together, and a lot has changed, so whatever you remember about their travel styles might no longer be accurate. You know you will have to listen carefully and rediscover what matters to them during the conversation, while still trying to advocate for the things that matter most to you.\n\nYour task:\nYou already have a rough plan to visit a city with both a nearby mountain range and a lively urban center. But a couple of things on your itinerary remain undecided, which includes Sunday’s group activity. You and your friends have decided to hop on a video call to agree on the finer details of what to include or leave out of your plans, and you have narrowed it down to a discussion of ten issues. Below are your preferences for each one. Higher points mean greater satisfaction for you on that issue.\n\nImportantly, the five of you are a unit, so this trip is all-or-nothing: if you cannot agree on a plan, you would rather spend the week visiting your parents back home, which costs almost nothing and still feels like a proper break. Visiting your parents is worth zero points, so you will only agree to this vacation if you can find a plan that gives you a positive score.",
+      "BATNA": "Your best alternative to negotiated agreement ('BATNA') is to visit your parents, which is worth 0 points.",
+      "RP": 0,
+      "scoresheet": {
+        "Slow_mornings": [
+          {
+            "option": "Include",
+            "score": 0.1,
+            "reason": "Keeps the pace relaxed"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Multiple_activities_per_day": [
+          {
+            "option": "Include",
+            "score": -0.24,
+            "reason": "Too rushed; you want a lighter pace"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Calm_nights_in": [
+          {
+            "option": "Include",
+            "score": 0.0,
+            "reason": "No strong preference"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Enjoy_nightlife": [
+          {
+            "option": "Include",
+            "score": 0.0,
+            "reason": "No strong preference"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Shared_rooms": [
+          {
+            "option": "Include",
+            "score": -0.08,
+            "reason": "Too little privacy"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Separate_rooms": [
+          {
+            "option": "Include",
+            "score": 0.5,
+            "reason": "Privacy helps you recharge"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Cabin_near_mountains": [
+          {
+            "option": "Include",
+            "score": -0.57,
+            "reason": "Too far out; not convenient"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Hotel_in_city": [
+          {
+            "option": "Include",
+            "score": 0.74,
+            "reason": "Convenient base for plans"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Sunday_hiking": [
+          {
+            "option": "Include",
+            "score": 0.95,
+            "reason": "Outdoor day feels grounding"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Sunday_city_exploration": [
+          {
+            "option": "Include",
+            "score": -0.75,
+            "reason": "Not your vibe; you prefer outdoors"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ]
+      }
+    },
+    {
+      "role_name": "Party C",
+      "narrative": "You and four roommates made a pact at graduation to take a trip together. Eight years have passed, and that trip still has not happened. You have all stayed in touch, but you can feel yourselves slowly drifting apart. Now you are determined to plan a weekend vacation with them as a way to reconnect. You also know that each of you wants something a little different from this trip, and whether it happens at all will depend on whether you can reach an agreement in spite of these differences.\n\nYou like a fast pace when you travel. You do not enjoy feeling like the day was wasted, and you would rather fit in many experiences than slow things down too much. You also prefer busy evenings. You enjoy going out at night when there is something happening, and you like the trip to still feel alive after dinner. You feel happiest when you and your friends are in the same space, doing things together, and sharing experiences as a group. You do not want the weekend to feel like separate solo trips happening in parallel. You do not care much where you stay, as long as it works for the plans. You are more focused on what you do than the exact location. When you imagine the ideal weekend, you picture an active outdoor day with a quick tempo, moving together and making the most of the daylight.\n\nAbout your friends:\nYou realize that while some of your friends share parts of your preferences, others do not. Some may want a more relaxed pace, some may prefer calm evenings and time to wind down, some may want more personal space even though you prefer staying together, and some may care more than you do about where you stay. Some may also be more excited about exploring the city than spending the main day outdoors. It has been eight years since you all lived together, and a lot has changed, so whatever you remember about their travel styles might no longer be accurate. You know you will have to listen carefully and rediscover what matters to them during the conversation, while still trying to advocate for the things that matter most to you.\n\nYour task:\nYou already have a rough plan to visit a city with both a nearby mountain range and a lively urban center. But a couple of things on your itinerary remain undecided, which includes Sunday’s group activity. You and your friends have decided to hop on a video call to agree on the finer details of what to include or leave out of your plans, and you have narrowed it down to a discussion of ten issues. Below are your preferences for each one. Higher points mean greater satisfaction for you on that issue.\n\nImportantly, the five of you are a unit, so this trip is all-or-nothing: if you cannot agree on a plan, you would rather spend the week visiting your parents back home, which costs almost nothing and still feels like a proper break. Visiting your parents is worth zero points, so you will only agree to this vacation if you can find a plan that gives you a positive score.",
+      "BATNA": "Your best alternative to negotiated agreement ('BATNA') is to visit your parents, which is worth 0 points.",
+      "RP": 0,
+      "scoresheet": {
+        "Slow_mornings": [
+          {
+            "option": "Include",
+            "score": -0.71,
+            "reason": "Feels too slow; you want more momentum"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Multiple_activities_per_day": [
+          {
+            "option": "Include",
+            "score": 0.89,
+            "reason": "Packed days feel worth it"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Calm_nights_in": [
+          {
+            "option": "Include",
+            "score": -0.82,
+            "reason": "Too quiet; you want more nightlife"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Enjoy_nightlife": [
+          {
+            "option": "Include",
+            "score": 0.92,
+            "reason": "Nightlife is part of the fun"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Shared_rooms": [
+          {
+            "option": "Include",
+            "score": 0.37,
+            "reason": "More bonding time"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Separate_rooms": [
+          {
+            "option": "Include",
+            "score": -0.67,
+            "reason": "Feels too separate from the group"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Cabin_near_mountains": [
+          {
+            "option": "Include",
+            "score": 0.0,
+            "reason": "No strong preference"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Hotel_in_city": [
+          {
+            "option": "Include",
+            "score": 0.0,
+            "reason": "No strong preference"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Sunday_hiking": [
+          {
+            "option": "Include",
+            "score": 0.17,
+            "reason": "Outdoor day feels grounding"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Sunday_city_exploration": [
+          {
+            "option": "Include",
+            "score": -0.03,
+            "reason": "Not your vibe; you prefer outdoors"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ]
+      }
+    },
+    {
+      "role_name": "Party D",
+      "narrative": "You and four roommates made a pact at graduation to take a trip together. Eight years have passed, and that trip still has not happened. You have all stayed in touch, but you can feel yourselves slowly drifting apart. Now you are determined to plan a weekend vacation with them as a way to reconnect. You also know that each of you wants something a little different from this trip, and whether it happens at all will depend on whether you can reach an agreement in spite of these differences.\n\nYou like a fast pace when you travel. You do not enjoy feeling like the day was wasted, and you would rather fit in many experiences than slow things down too much. You also prefer calm evenings. After a full day, you like having time to wind down at night rather than keeping the energy going. You enjoy time with the group, but you also value having some space. You are flexible about how much time you spend together, as long as the plan feels fair. You would rather stay in the city, so it is easy to get around and keep plans simple. You like the convenience of stepping out the door and being close to everything. When you imagine the ideal weekend, you picture a city day with a quick tempo that feels exciting, but still organized.\n\nAbout your friends:\nYou realize that while some of your friends share parts of your preferences, others do not. Some may want a more relaxed pace, some may prefer busy evenings and nightlife, some may want more time together or more personal time than you do, and some may care more about staying close to nature than staying in the city. Some may also be more excited about spending Sunday outdoors than exploring the city. It has been eight years since you all lived together, and a lot has changed, so whatever you remember about their travel styles might no longer be accurate. You know you will have to listen carefully and rediscover what matters to them during the conversation, while still trying to advocate for the things that matter most to you.\n\nYour task:\nYou already have a rough plan to visit a city with both a nearby mountain range and a lively urban center. But a couple of things on your itinerary remain undecided, which includes Sunday’s group activity. You and your friends have decided to hop on a video call to agree on the finer details of what to include or leave out of your plans, and you have narrowed it down to a discussion of ten issues. Below are your preferences for each one. Higher points mean greater satisfaction for you on that issue.\n\nImportantly, the five of you are a unit, so this trip is all-or-nothing: if you cannot agree on a plan, you would rather spend the week visiting your parents back home, which costs almost nothing and still feels like a proper break. Visiting your parents is worth zero points, so you will only agree to this vacation if you can find a plan that gives you a positive score.",
+      "BATNA": "Your best alternative to negotiated agreement ('BATNA') is to visit your parents, which is worth 0 points.",
+      "RP": 0,
+      "scoresheet": {
+        "Slow_mornings": [
+          {
+            "option": "Include",
+            "score": -0.74,
+            "reason": "Feels too slow; you want more momentum"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Multiple_activities_per_day": [
+          {
+            "option": "Include",
+            "score": 0.0,
+            "reason": "No strong preference"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Calm_nights_in": [
+          {
+            "option": "Include",
+            "score": 0.39,
+            "reason": "Helps you wind down at night"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Enjoy_nightlife": [
+          {
+            "option": "Include",
+            "score": -0.76,
+            "reason": "Too late and draining"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Shared_rooms": [
+          {
+            "option": "Include",
+            "score": 0.0,
+            "reason": "No strong preference"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Separate_rooms": [
+          {
+            "option": "Include",
+            "score": 0.0,
+            "reason": "No strong preference"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Cabin_near_mountains": [
+          {
+            "option": "Include",
+            "score": -0.95,
+            "reason": "Too far out; not convenient"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Hotel_in_city": [
+          {
+            "option": "Include",
+            "score": 0.84,
+            "reason": "Convenient base for plans"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Sunday_hiking": [
+          {
+            "option": "Include",
+            "score": -0.32,
+            "reason": "Not your vibe; you prefer city time"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Sunday_city_exploration": [
+          {
+            "option": "Include",
+            "score": 0.77,
+            "reason": "City exploring feels exciting"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ]
+      }
+    },
+    {
+      "role_name": "Party E",
+      "narrative": "You and four roommates made a pact at graduation to take a trip together. Eight years have passed, and that trip still has not happened. You have all stayed in touch, but you can feel yourselves slowly drifting apart. Now you are determined to plan a weekend vacation with them as a way to reconnect. You also know that each of you wants something a little different from this trip, and whether it happens at all will depend on whether you can reach an agreement in spite of these differences.\n\nYou can enjoy either a relaxed pace or a packed schedule. What matters more to you is that the trip feels worth it and the flow makes sense. You also prefer busy evenings. You enjoy going out at night when there is something happening, and you like the trip to still feel alive after dinner. You feel happiest when you can balance time with your friends and time on your own, so the trip feels social without becoming overwhelming. You enjoy the group, but you also need moments where you can recharge. You would rather stay close to nature, so the weekend feels calmer and more refreshing. Being near the mountains helps the trip feel like a real break. When you imagine the ideal weekend, you picture a city day that feels worth it, as long as you can move freely and reconnect with the group easily.\n\nAbout your friends:\nYou realize that while some of your friends share parts of your preferences, others do not. Some may want a stronger stance on pace than you do, some may prefer calm evenings and time to wind down, some may want more time together, and some may care more about staying in the city for convenience than being close to nature. Some may also be more excited about spending Sunday outdoors than exploring the city. It has been eight years since you all lived together, and a lot has changed, so whatever you remember about their travel styles might no longer be accurate. You know you will have to listen carefully and rediscover what matters to them during the conversation, while still trying to advocate for the things that matter most to you.\n\nYour task:\nYou already have a rough plan to visit a city with both a nearby mountain range and a lively urban center. But a couple of things on your itinerary remain undecided, which includes Sunday’s group activity. You and your friends have decided to hop on a video call to agree on the finer details of what to include or leave out of your plans, and you have narrowed it down to a discussion of ten issues. Below are your preferences for each one. Higher points mean greater satisfaction for you on that issue.\n\nImportantly, the five of you are a unit, so this trip is all-or-nothing: if you cannot agree on a plan, you would rather spend the week visiting your parents back home, which costs almost nothing and still feels like a proper break. Visiting your parents is worth zero points, so you will only agree to this vacation if you can find a plan that gives you a positive score.",
+      "BATNA": "Your best alternative to negotiated agreement ('BATNA') is to visit your parents, which is worth 0 points.",
+      "RP": 0,
+      "scoresheet": {
+        "Slow_mornings": [
+          {
+            "option": "Include",
+            "score": 0.0,
+            "reason": "No strong preference"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Multiple_activities_per_day": [
+          {
+            "option": "Include",
+            "score": 0.0,
+            "reason": "No strong preference"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Calm_nights_in": [
+          {
+            "option": "Include",
+            "score": -0.7,
+            "reason": "Too quiet; you want more nightlife"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Enjoy_nightlife": [
+          {
+            "option": "Include",
+            "score": 0.82,
+            "reason": "Nightlife is part of the fun"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Shared_rooms": [
+          {
+            "option": "Include",
+            "score": -0.33,
+            "reason": "Too little privacy"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Separate_rooms": [
+          {
+            "option": "Include",
+            "score": 0.58,
+            "reason": "Privacy helps you recharge"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Cabin_near_mountains": [
+          {
+            "option": "Include",
+            "score": 0.56,
+            "reason": "Nature setting feels like a real break"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Hotel_in_city": [
+          {
+            "option": "Include",
+            "score": -0.48,
+            "reason": "Less calm than staying near nature"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Sunday_hiking": [
+          {
+            "option": "Include",
+            "score": -0.41,
+            "reason": "Not your vibe; you prefer city time"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Sunday_city_exploration": [
+          {
+            "option": "Include",
+            "score": 0.75,
+            "reason": "City exploring feels exciting"
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ]
+      }
+    }
+  ],
+  "tips": "<p class=\"text-gray-700 mb-4\">Negotiation is a skill that can be learned and improved with practice. At its core, negotiation is about making choices under conditions of <strong>interdependence</strong>: two or more parties want something, and each party's success depends, at least in part, on the decisions of the others. While the art of negotiation can seem daunting, there are several fundamental concepts that provide a foundation for effective bargaining. Understanding these concepts can help negotiators achieve better outcomes and avoid common pitfalls.</p><p>One of the most important ideas in negotiation is the concept of <strong>BATNA</strong> and <strong>reservation price</strong>. BATNA stands for \"Best Alternative to a Negotiated Agreement.\" It is essentially your fallback option—the \"thing\" you will pursue if the current negotiation fails. Your BATNA is not just abstract; it is the concrete alternative that protects you from agreeing to a deal that leaves you worse off than your options outside the negotiation. Closely related is the <strong>reservation price</strong>, which is the value of your BATNA quantified. It represents the minimum acceptable deal you are willing to accept.</p><p>The number one rule of negotiation is simple: <strong>never accept a deal worse than your BATNA</strong>! Knowing your BATNA and reservation price gives you a clear boundary and helps prevent you from making poor concessions under pressure.</p><p class=\"text-gray-700 mb-4\">Another fundamental concept is the possibility of <strong>integrative negotiation</strong>, which is when you create value or \"expand the pie\" within a deal rather than simply dividing a fixed amount of pie. The key insight is that what matters a lot to you may matter less to someone else. By identifying these differences in priorities, negotiators can make strategic tradeoffs: conceding on issues that are low priority to gain on issues that are high priority. This approach transforms negotiation from a zero-sum battle into an opportunity for mutual gain, where both parties can walk away better off than if they had simply split the difference.</p>"
+}
