@@ -2,15 +2,15 @@
   "roles": [
     {
       "role_name": "Party A",
-      "narrative": "You and one of your roommates made a pact at graduation to take a trip together. Eight years have passed, and that trip still has not happened. You have stayed in touch, but you can feel yourselves slowly drifting apart. Now you are determined to plan a weekend vacation together as a way to reconnect. You also know that you both want something a little different from this trip, and whether it happens at all will depend on whether you can reach an agreement in spite of these differences.\n\nYou like a relaxed pace when you travel. You do not enjoy feeling rushed or squeezed by a tight schedule, and you would rather have a few slow and meaningful moments than try to do everything. You also prefer calm evenings. After a full day, you like having time to wind down at night rather than keeping the energy going. You feel happiest when you are sharing the trip experience together, rather than splitting off and doing your own thing most of the time. You would rather stay close to nature, so the weekend feels calmer and more refreshing. Being near the mountains helps the trip feel like a real break. When you imagine the ideal weekend, you do not care much what the main activity is, as long as the overall rhythm feels relaxed and enjoyable.\n\nAbout your friend:\nYou realize that your friend may have very different preferences from you. They may want a faster pace with packed days, they may enjoy busy evenings and nightlife, and they may want more personal space even though you have not seen each other properly in years. They may also be more excited about a city-focused Sunday than being outdoors, and they may not care as much as you do about staying close to nature. It has been eight years since you lived together, and a lot has changed, so whatever you remember about their travel style might no longer be accurate. You know you will have to listen carefully and rediscover what matters to them during the conversation, while still trying to advocate for the things that matter most to you.\n\nYour task:\nYou already have a rough plan to visit a city with both a nearby mountain range and a lively urban center. But a couple of things on your itinerary remain undecided, which includes Sunday’s group activity. You and your friend have decided to hop on a video call to agree on the finer details of what to include or leave out of your plans, and you have narrowed it down to a discussion of ten issues. Below are your preferences for each one. Higher points mean greater satisfaction for you on that issue.\n\nImportantly, the two of you are a unit, so this trip is all-or-nothing: if you cannot agree on a plan, you would rather spend the week visiting your parents back home, which costs almost nothing and still feels like a proper break. Visiting your parents is worth zero points, so you will only agree to this vacation if you can find a plan that gives you a positive score.",
+      "narrative": "You and one roommate made a pact at graduation to take a trip together. Five years have passed, and that trip still has not happened. You have both stayed in touch, but you can feel yourselves slowly drifting apart. You see this weekend trip as a chance to reconnect, but it will only happen if you can both agree on your vacation plans.\n\n<strong>The current plan:</strong>\nYou and your friend already have a drafted plan for a weekend in a nearby city. Mornings start early and efficiently, and the afternoons include one planned activity per day. Lodging-wise, you have separate rooms, the hotel sits closer to the mountains than the city, and you plan on getting around by car. But while there is space for an extra activity or two, there is no built-in solo time, and there are no plans to socialize with people outside of the two of you. You each want something a little different from the current setup, so you will hop on a video call to adjust the plan until you both feel good about going.\n\n<strong>Your task:</strong>\nYou have narrowed the changes worth discussing into ten issues. These cover whether mornings should be slow or stay efficient, whether afternoons should include more activities, how much time you spend together versus having time to yourselves, whether moving from separate to shared rooms feels right, and whether to meet new people in town or reconnect with old nearby friends. In terms of your ideal travel scenery and activities, you will also discuss whether to buy a bicycle-and-boat pass that lets you enjoy nature a bit more than renting a car, whether to relocate downtown to feel closer to city life, and whether extra time should be spent hiking outdoors or visiting a museum. <em>As you prepare for the negotiation, you reflect on your general preferences for each of these issues.</em>\n\n<strong>Your preferences:</strong>\n[P1: Slow mornings; fewer afternoon activities; meet new people; skip old-friend meetups; shared rooms; no scheduled solo time; scenic bicycle-and-boat pass; avoid downtown hotel; neutral on hiking and museum]\nRelaxation is your favorite part of a trip. You prefer slow mornings because you like easing into the day without a clock ruining your mood. And so, by the afternoon, you want breathing room. Too many activities turn the day into a checklist. Meeting new people sounds fun to you. It adds a bit of spontaneity and makes the weekend feel more alive. However, you would rather not schedule a meet-up with old friends. This trip is about making new memories together, not reliving old ones. Switching to shared rooms also just feels right to you. You like the little moments, late-night chats, and waking up in the same place is what you need to meaningfully reconnect. Similarly, you do not want solo time penciled into the schedule. You would prefer to have as much time together as possible.\n\nFor getting around, you want the trip to feel a bit scenic. The bicycle-and-boat pass makes the in-between moments with Mother Nature part of the experience. Hence, staying downtown is not appealing. You prefer the original hotel near the mountains, where it’s calmer and more connected to nature, even if it is a bit less central. You are fine either way on hiking. If your friend wants it, you can go along. And if some people want to go to a museum, that also works fine for you.\n\n<strong>Important: Your Prolific Bonus ($):</strong>\nYour preferences across each vacation issue are reflected in the points table below. Higher points mean greater satisfaction for you if that feature becomes part of the plan, and <strong>the total points you receive if your group reaches an agreement will determine the amount of money you earn from Prolific.</strong> It's important to note that this trip is all-or-nothing: if you cannot both agree on a plan that gives each person a positive score, you would each rather spend the week visiting your parents instead, which is worth <em>zero points</em> but still feels like a proper break.\n\nSince it has been five years since you both lived together, whatever you remember about your friend’s travel style may no longer be accurate. You might line up on some issues and clash on others, so <strong>maximizing your total points (and earnings) requires listening carefully and rediscovering what matters to them while still advocating for what matters most to you.</strong>",
       "BATNA": "Your best alternative to negotiated agreement ('BATNA') is to visit your parents, which is worth 0 points.",
       "RP": 0,
       "scoresheet": {
-        "Slow_mornings": [
+        "Slow_Mornings": [
           {
             "option": "Include",
-            "score": 0.75,
-            "reason": "Keeps the pace relaxed"
+            "score": 0.9,
+            "reason": "Prefer a relaxed pace over a packed schedule."
           },
           {
             "option": "Exclude",
@@ -18,11 +18,11 @@
             "reason": ""
           }
         ],
-        "Multiple_activities_per_day": [
+        "Multiple_Afternoon_Activities": [
           {
             "option": "Include",
-            "score": -1.43,
-            "reason": "Too rushed; you want a lighter pace"
+            "score": -0.31,
+            "reason": "Prefer a relaxed pace over a packed schedule."
           },
           {
             "option": "Exclude",
@@ -30,11 +30,11 @@
             "reason": ""
           }
         ],
-        "Calm_nights_in": [
+        "Connect_with_New_People": [
           {
             "option": "Include",
-            "score": 0.96,
-            "reason": "Helps you wind down at night"
+            "score": 0.84,
+            "reason": "Meeting new people adds fun and spontaneity."
           },
           {
             "option": "Exclude",
@@ -42,11 +42,11 @@
             "reason": ""
           }
         ],
-        "Enjoy_nightlife": [
+        "Meet_up_with_Old_Friends": [
           {
             "option": "Include",
-            "score": -1.2,
-            "reason": "Too late and draining"
+            "score": -1.58,
+            "reason": "Meeting new people adds fun and spontaneity."
           },
           {
             "option": "Exclude",
@@ -54,11 +54,11 @@
             "reason": ""
           }
         ],
-        "Shared_rooms": [
+        "Shared_Rooms": [
           {
             "option": "Include",
-            "score": 0.98,
-            "reason": "More bonding time"
+            "score": 0.29,
+            "reason": "Prefer togetherness over scheduled solo time."
           },
           {
             "option": "Exclude",
@@ -66,11 +66,11 @@
             "reason": ""
           }
         ],
-        "Separate_rooms": [
+        "Two_Hour_Daily_Solo_Time": [
           {
             "option": "Include",
-            "score": -1.61,
-            "reason": "Feels too separate from the group"
+            "score": -0.75,
+            "reason": "Prefer togetherness over scheduled solo time."
           },
           {
             "option": "Exclude",
@@ -78,11 +78,11 @@
             "reason": ""
           }
         ],
-        "Cabin_near_mountains": [
+        "Bicycle_and_Boat_City_Pass": [
           {
             "option": "Include",
             "score": 0.31,
-            "reason": "Being near nature makes the weekend feel like a real break"
+            "reason": "Provides connection to nature."
           },
           {
             "option": "Exclude",
@@ -90,11 +90,11 @@
             "reason": ""
           }
         ],
-        "Hotel_in_city": [
+        "Downtown_Hotel": [
           {
             "option": "Include",
-            "score": -1.81,
-            "reason": "Less calm than staying near nature"
+            "score": -0.34,
+            "reason": "Provides connection to nature."
           },
           {
             "option": "Exclude",
@@ -102,23 +102,23 @@
             "reason": ""
           }
         ],
-        "Sunday_hiking": [
-          {
-            "option": "Include",
-            "score": 0.0,
-            "reason": "No strong preference"
-          },
-          {
-            "option": "Exclude",
-            "score": 0,
-            "reason": ""
-          }
-        ],
-        "Sunday_city_exploration": [
+        "Hiking": [
           {
             "option": "Include",
             "score": 0.0,
-            "reason": "No strong preference"
+            "reason": "Flexible on extra activities."
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Museum": [
+          {
+            "option": "Include",
+            "score": 0.0,
+            "reason": "Flexible on extra activities."
           },
           {
             "option": "Exclude",
@@ -130,15 +130,15 @@
     },
     {
       "role_name": "Party B",
-      "narrative": "You and one of your roommates made a pact at graduation to take a trip together. Eight years have passed, and that trip still has not happened. You have stayed in touch, but you can feel yourselves slowly drifting apart. Now you are determined to plan a weekend vacation together as a way to reconnect. You also know that you both want something a little different from this trip, and whether it happens at all will depend on whether you can reach an agreement in spite of these differences.\n\nYou like a fast pace when you travel. You do not enjoy feeling like the day was wasted, and you would rather fit in many experiences than slow things down too much. You also prefer busy evenings. You enjoy going out at night when there is something happening, and you like the trip to still feel alive after dinner. You feel happiest when you have enough personal space to move at your own rhythm, even while sharing a trip with someone else. You do not care much where you stay, as long as it works for the plans. You are more focused on what you do than the exact location. When you imagine the ideal weekend, you picture exploring the city and discovering new places in a way that feels exciting and full.\n\nAbout your friend:\nYou realize that your friend may have very different preferences from you. They may want a slower pace, they may prefer calm nights in, and they may care more about doing things together rather than building in personal space. They may also care a lot about staying close to nature, even if you do not see that as the main priority. And since it has been eight years since you lived together, you know your memory of their travel style might be off. You will need to listen carefully during the conversation to figure out what matters most to them, while still trying to advocate for the kind of weekend you want.\n\nYour task:\nYou already have a rough plan to visit a city with both a nearby mountain range and a lively urban center. But a couple of things on your itinerary remain undecided, which includes Sunday’s group activity. You and your friend have decided to hop on a video call to agree on the finer details of what to include or leave out of your plans, and you have narrowed it down to a discussion of ten issues. Below are your preferences for each one. Higher points mean greater satisfaction for you on that issue.\n\nImportantly, the two of you are a unit, so this trip is all-or-nothing: if you cannot agree on a plan, you would rather spend the week visiting your parents back home, which costs almost nothing and still feels like a proper break. Visiting your parents is worth zero points, so you will only agree to this vacation if you can find a plan that gives you a positive score.",
+      "narrative": "You and one roommate made a pact at graduation to take a trip together. Five years have passed, and that trip still has not happened. You have both stayed in touch, but you can feel yourselves slowly drifting apart. You see this weekend trip as a chance to reconnect, but it will only happen if you can both agree on your vacation plans.\n\n<strong>The current plan:</strong>\nYou and your friend already have a drafted plan for a weekend in a nearby city. Mornings start early and efficiently, and the afternoons include one planned activity per day. Lodging-wise, you have separate rooms, the hotel sits closer to the mountains than the city, and you plan on getting around by car. But while there is space for an extra activity or two, there is no built-in solo time, and there are no plans to socialize with people outside of the two of you. You each want something a little different from the current setup, so you will hop on a video call to adjust the plan until you both feel good about going.\n\n<strong>Your task:</strong>\nYou have narrowed the changes worth discussing into ten issues. These cover whether mornings should be slow or stay efficient, whether afternoons should include more activities, how much time you spend together versus having time to yourselves, whether moving from separate to shared rooms feels right, and whether to meet new people in town or reconnect with old nearby friends. In terms of your ideal travel scenery and activities, you will also discuss whether to buy a bicycle-and-boat pass that lets you enjoy nature a bit more than renting a car, whether to relocate downtown to feel closer to city life, and whether extra time should be spent hiking outdoors or visiting a museum. <em>As you prepare for the negotiation, you reflect on your general preferences for each of these issues.</em>\n\n<strong>Your preferences:</strong>\n[P2: Efficient mornings; more afternoon activities; avoid meeting new people; meet up with old friends; separate rooms; wants daily solo time; neutral on bicycle-and-boat pass and hotel location; avoid hiking; museum]\nYou like fast and efficient travel. Slow mornings feel like you are giving away the best hours. Consistently, packing in a couple of activities in the afternoon makes the day feel full in a satisfying way. Meeting new people can feel like work, and you do not want to deal with that during a vacation. However, if the weekend includes familiar faces, you are into it. Seeing old friends feels easy, meaningful, and low-pressure. When it comes to the idea of sharing rooms, you'd rather have your own private space to socially recharge and be able to meaningfully connect during the day’s activities with your friend. Similarly, you would appreciate some built-in solo time each day. It helps you reset and come back feeling fresh.\n\nYou do not have strong feelings about renting a car or getting a bicycle-and-boat pass as long as you get to your destination. Hotel location is also not a big lever for you. Either works if logistics are smooth. Outdoor activities like hiking are just not appealing to you. You like less adventurous, indoor activities. Cultural connection and being away from the outdoors sounds like a great way to spend extra vacation time.\n\n<strong>Important: Your Prolific Bonus ($):</strong>\nYour preferences across each vacation issue are reflected in the points table below. Higher points mean greater satisfaction for you if that feature becomes part of the plan, and <strong>the total points you receive if your group reaches an agreement will determine the amount of money you earn from Prolific.</strong> It's important to note that this trip is all-or-nothing: if you cannot both agree on a plan that gives each person a positive score, you would each rather spend the week visiting your parents instead, which is worth <em>zero points</em> but still feels like a proper break.\n\nSince it has been five years since you both lived together, whatever you remember about your friend’s travel style may no longer be accurate. You might line up on some issues and clash on others, so <strong>maximizing your total points (and earnings) requires listening carefully and rediscovering what matters to them while still advocating for what matters most to you.</strong>",
       "BATNA": "Your best alternative to negotiated agreement ('BATNA') is to visit your parents, which is worth 0 points.",
       "RP": 0,
       "scoresheet": {
-        "Slow_mornings": [
+        "Slow_Mornings": [
           {
             "option": "Include",
-            "score": -1.39,
-            "reason": "Feels too slow; you want more momentum"
+            "score": -1.57,
+            "reason": "Prefer a fast, activity-filled pace."
           },
           {
             "option": "Exclude",
@@ -146,11 +146,11 @@
             "reason": ""
           }
         ],
-        "Multiple_activities_per_day": [
+        "Multiple_Afternoon_Activities": [
           {
             "option": "Include",
-            "score": 0.45,
-            "reason": "Packed days feel worth it"
+            "score": 0.7,
+            "reason": "Prefer a fast, activity-filled pace."
           },
           {
             "option": "Exclude",
@@ -158,11 +158,11 @@
             "reason": ""
           }
         ],
-        "Calm_nights_in": [
+        "Connect_with_New_People": [
           {
             "option": "Include",
-            "score": -0.58,
-            "reason": "Too quiet; you want more nightlife"
+            "score": -1.16,
+            "reason": "Low-pressure and doesn't feel like work."
           },
           {
             "option": "Exclude",
@@ -170,11 +170,11 @@
             "reason": ""
           }
         ],
-        "Enjoy_nightlife": [
+        "Meet_up_with_Old_Friends": [
           {
             "option": "Include",
-            "score": 0.06,
-            "reason": "Nightlife is part of the fun"
+            "score": 0.99,
+            "reason": "Low-pressure and doesn't feel like work."
           },
           {
             "option": "Exclude",
@@ -182,11 +182,11 @@
             "reason": ""
           }
         ],
-        "Shared_rooms": [
+        "Shared_Rooms": [
           {
             "option": "Include",
-            "score": -1.45,
-            "reason": "Too little privacy"
+            "score": -0.87,
+            "reason": "Prefer privacy and built-in solo time."
           },
           {
             "option": "Exclude",
@@ -194,11 +194,11 @@
             "reason": ""
           }
         ],
-        "Separate_rooms": [
+        "Two_Hour_Daily_Solo_Time": [
           {
             "option": "Include",
-            "score": 1.91,
-            "reason": "Privacy helps you recharge"
+            "score": 1.11,
+            "reason": "Prefer privacy and built-in solo time."
           },
           {
             "option": "Exclude",
@@ -206,11 +206,11 @@
             "reason": ""
           }
         ],
-        "Cabin_near_mountains": [
+        "Bicycle_and_Boat_City_Pass": [
           {
             "option": "Include",
             "score": 0.0,
-            "reason": "No strong preference"
+            "reason": "Flexible on scenery, transport, and lodging."
           },
           {
             "option": "Exclude",
@@ -218,11 +218,11 @@
             "reason": ""
           }
         ],
-        "Hotel_in_city": [
+        "Downtown_Hotel": [
           {
             "option": "Include",
             "score": 0.0,
-            "reason": "No strong preference"
+            "reason": "Flexible on scenery, transport, and lodging."
           },
           {
             "option": "Exclude",
@@ -230,11 +230,11 @@
             "reason": ""
           }
         ],
-        "Sunday_hiking": [
+        "Hiking": [
           {
             "option": "Include",
-            "score": -0.93,
-            "reason": "Not your vibe; you prefer city time"
+            "score": -1.27,
+            "reason": "You seek indoor, cultural time."
           },
           {
             "option": "Exclude",
@@ -242,11 +242,11 @@
             "reason": ""
           }
         ],
-        "Sunday_city_exploration": [
+        "Museum": [
           {
             "option": "Include",
-            "score": 0.44,
-            "reason": "City exploring feels exciting"
+            "score": 0.2,
+            "reason": "You seek indoor, cultural time."
           },
           {
             "option": "Exclude",
