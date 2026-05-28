@@ -6,47 +6,11 @@
       "BATNA": "If you can’t reach agreement, your fallback plan is to keep working from home, worth 0 points.",
       "RP": 0,
       "scoresheet": {
-        "Secondhand_Furniture": [
+        "Strict_Morning_Quiet_Time": [
           {
             "option": "Include",
-            "score": 1.01,
-            "reason": "𝗖𝗼𝘀𝘁 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: A shared office does not need to be fancy to function well."
-          },
-          {
-            "option": "Exclude",
-            "score": 0,
-            "reason": ""
-          }
-        ],
-        "Smaller_Office_Space": [
-          {
-            "option": "Include",
-            "score": 0.55,
-            "reason": "𝗖𝗼𝘀𝘁 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: The office is mainly for individual work, so more space feels unnecessary."
-          },
-          {
-            "option": "Exclude",
-            "score": 0,
-            "reason": ""
-          }
-        ],
-        "Self_Managed_Cleaning": [
-          {
-            "option": "Include",
-            "score": 0.02,
-            "reason": "𝗖𝗼𝘀𝘁 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: You already clean up after yourself, so professional cleaning feels like an avoidable cost."
-          },
-          {
-            "option": "Exclude",
-            "score": 0,
-            "reason": ""
-          }
-        ],
-        "Strict_Visitor_Time_Windows": [
-          {
-            "option": "Include",
-            "score": 0.8,
-            "reason": "𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗪𝗼𝗿𝗸 𝗦𝗽𝗮𝗰𝗲𝘀: Reduces distractions and makes interruptions more predictable."
+            "score": 1.77,
+            "reason": "𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗪𝗼𝗿𝗸 𝗦𝗽𝗮𝗰𝗲𝘀: Gives everyone a focused start to the day for their hardest tasks."
           },
           {
             "option": "Exclude",
@@ -57,7 +21,7 @@
         "Kitchen_As_Private_Call_Room": [
           {
             "option": "Include",
-            "score": 0.59,
+            "score": 1.3,
             "reason": "𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗪𝗼𝗿𝗸 𝗦𝗽𝗮𝗰𝗲𝘀: Keeps calls from spilling into the main work area."
           },
           {
@@ -66,11 +30,11 @@
             "reason": ""
           }
         ],
-        "Strict_Morning_Quiet_Time": [
+        "Strict_Visitor_Time_Windows": [
           {
             "option": "Include",
-            "score": 0.26,
-            "reason": "𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗪𝗼𝗿𝗸 𝗦𝗽𝗮𝗰𝗲𝘀: Gives everyone a focused start to the day for their hardest tasks."
+            "score": 0.91,
+            "reason": "𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗪𝗼𝗿𝗸 𝗦𝗽𝗮𝗰𝗲𝘀: Reduces distractions and makes interruptions more predictable."
           },
           {
             "option": "Exclude",
@@ -78,11 +42,11 @@
             "reason": ""
           }
         ],
-        "Guest_Meeting_Room_Adding_A_Divider": [
+        "Smaller_Office_Space": [
           {
             "option": "Include",
-            "score": -1.65,
-            "reason": "𝗘𝘃𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗠𝗲𝗲𝘁𝗶𝗻𝗴 𝗦𝗽𝗮𝗰𝗲: Adds cost, reduces shared working space, and brings in more outside traffic."
+            "score": 1.51,
+            "reason": "𝗖𝗼𝘀𝘁 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: The office is mainly for individual work, so more space feels unnecessary."
           },
           {
             "option": "Exclude",
@@ -90,11 +54,23 @@
             "reason": ""
           }
         ],
-        "Large_Meeting_Table": [
+        "Secondhand_Furniture": [
           {
             "option": "Include",
-            "score": -2.1,
-            "reason": "𝗘𝘃𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗠𝗲𝗲𝘁𝗶𝗻𝗴 𝗦𝗽𝗮𝗰𝗲: Uses money and space that could keep the room more open for focused work."
+            "score": 1.1,
+            "reason": "𝗖𝗼𝘀𝘁 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: A shared office does not need to be fancy to function well."
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Self_Managed_Cleaning": [
+          {
+            "option": "Include",
+            "score": 0.41,
+            "reason": "𝗖𝗼𝘀𝘁 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: You already clean up after yourself, so professional cleaning feels like an avoidable cost."
           },
           {
             "option": "Exclude",
@@ -105,8 +81,32 @@
         "Allow_Evening_Events": [
           {
             "option": "Include",
-            "score": -2.16,
+            "score": -0.41,
             "reason": "𝗘𝘃𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗠𝗲𝗲𝘁𝗶𝗻𝗴 𝗦𝗽𝗮𝗰𝗲: Brings noise and visitors into the office, especially when you may need to work late."
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Large_Meeting_Table": [
+          {
+            "option": "Include",
+            "score": -0.99,
+            "reason": "𝗘𝘃𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗠𝗲𝗲𝘁𝗶𝗻𝗴 𝗦𝗽𝗮𝗰𝗲: Uses money and space that could keep the room more open for focused work."
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Guest_Meeting_Room_Adding_A_Divider": [
+          {
+            "option": "Include",
+            "score": -1.0,
+            "reason": "𝗘𝘃𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗠𝗲𝗲𝘁𝗶𝗻𝗴 𝗦𝗽𝗮𝗰𝗲: Adds cost, reduces shared working space, and brings in more outside traffic."
           },
           {
             "option": "Exclude",
@@ -122,35 +122,11 @@
       "BATNA": "If you can’t reach agreement, your fallback plan is to keep working from home, worth 0 points.",
       "RP": 0,
       "scoresheet": {
-        "Smaller_Office_Space": [
+        "Large_Meeting_Table": [
           {
             "option": "Include",
-            "score": 0.91,
-            "reason": "𝗖𝗼𝘀𝘁 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: Sufficient space for daily needs; avoids paying for more space than the group needs."
-          },
-          {
-            "option": "Exclude",
-            "score": 0,
-            "reason": ""
-          }
-        ],
-        "Secondhand_Furniture": [
-          {
-            "option": "Include",
-            "score": 0.54,
-            "reason": "𝗖𝗼𝘀𝘁 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: New furniture is not necessary; secondhand furniture keeps the office affordable."
-          },
-          {
-            "option": "Exclude",
-            "score": 0,
-            "reason": ""
-          }
-        ],
-        "Self_Managed_Cleaning": [
-          {
-            "option": "Include",
-            "score": 0.31,
-            "reason": "𝗖𝗼𝘀𝘁 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: Avoids professional cleaning costs if people clean up after themselves and their guests."
+            "score": 1.58,
+            "reason": "𝗘𝘃𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗠𝗲𝗲𝘁𝗶𝗻𝗴 𝗦𝗽𝗮𝗰𝗲: Useful for collaboration, tutor-student work sessions, and family meetings."
           },
           {
             "option": "Exclude",
@@ -161,20 +137,8 @@
         "Allow_Evening_Events": [
           {
             "option": "Include",
-            "score": 0.68,
+            "score": 0.15,
             "reason": "𝗘𝘃𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗠𝗲𝗲𝘁𝗶𝗻𝗴 𝗦𝗽𝗮𝗰𝗲: Supports after-work tutor socials and practical matching sessions for students and tutors."
-          },
-          {
-            "option": "Exclude",
-            "score": 0,
-            "reason": ""
-          }
-        ],
-        "Large_Meeting_Table": [
-          {
-            "option": "Include",
-            "score": 0.23,
-            "reason": "𝗘𝘃𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗠𝗲𝗲𝘁𝗶𝗻𝗴 𝗦𝗽𝗮𝗰𝗲: Useful for collaboration, tutor-student work sessions, and family meetings."
           },
           {
             "option": "Exclude",
@@ -185,7 +149,7 @@
         "Guest_Meeting_Room_Adding_A_Divider": [
           {
             "option": "Include",
-            "score": 0.21,
+            "score": 0.12,
             "reason": "𝗘𝘃𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗠𝗲𝗲𝘁𝗶𝗻𝗴 𝗦𝗽𝗮𝗰𝗲: Creates a better setup for meeting students, families, tutors, or clients."
           },
           {
@@ -194,11 +158,35 @@
             "reason": ""
           }
         ],
-        "Strict_Morning_Quiet_Time": [
+        "Self_Managed_Cleaning": [
           {
             "option": "Include",
-            "score": -0.59,
-            "reason": "𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗪𝗼𝗿𝗸 𝗦𝗽𝗮𝗰𝗲𝘀: Makes it harder to coordinate, take quick calls, or have short conversations early in the day."
+            "score": 1.45,
+            "reason": "𝗖𝗼𝘀𝘁 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: Avoids professional cleaning costs if people clean up after themselves and their guests."
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Secondhand_Furniture": [
+          {
+            "option": "Include",
+            "score": 0.02,
+            "reason": "𝗖𝗼𝘀𝘁 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: New furniture is not necessary; secondhand furniture keeps the office affordable."
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Smaller_Office_Space": [
+          {
+            "option": "Include",
+            "score": 0.02,
+            "reason": "𝗖𝗼𝘀𝘁 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: Sufficient space for daily needs; avoids paying for more space than the group needs."
           },
           {
             "option": "Exclude",
@@ -209,8 +197,20 @@
         "Strict_Visitor_Time_Windows": [
           {
             "option": "Include",
-            "score": -1.45,
+            "score": -0.14,
             "reason": "𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗪𝗼𝗿𝗸 𝗦𝗽𝗮𝗰𝗲𝘀: Makes it harder to schedule meetings with students, families, tutors, and clients who have limited availability."
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Strict_Morning_Quiet_Time": [
+          {
+            "option": "Include",
+            "score": -1.67,
+            "reason": "𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗪𝗼𝗿𝗸 𝗦𝗽𝗮𝗰𝗲𝘀: Makes it harder to coordinate, take quick calls, or have short conversations early in the day."
           },
           {
             "option": "Exclude",
@@ -221,7 +221,7 @@
         "Kitchen_As_Private_Call_Room": [
           {
             "option": "Include",
-            "score": -1.74,
+            "score": -1.83,
             "reason": "𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗪𝗼𝗿𝗸 𝗦𝗽𝗮𝗰𝗲𝘀: Takes away a casual hospitality space for tea, coffee, snacks, quick calls, and guests."
           },
           {
@@ -238,11 +238,35 @@
       "BATNA": "If you can’t reach agreement, your fallback plan is to keep working from home, worth 0 points.",
       "RP": 0,
       "scoresheet": {
-        "Allow_Evening_Events": [
+        "Kitchen_As_Private_Call_Room": [
           {
             "option": "Include",
-            "score": 1.88,
-            "reason": "𝗘𝘃𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗠𝗲𝗲𝘁𝗶𝗻𝗴 𝗦𝗽𝗮𝗰𝗲: Important for workshops and professional sessions that happen after normal work hours."
+            "score": 0.39,
+            "reason": "𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗪𝗼𝗿𝗸 𝗦𝗽𝗮𝗰𝗲𝘀: Prevents virtual meetings and client calls from spilling into the main work area."
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Strict_Visitor_Time_Windows": [
+          {
+            "option": "Include",
+            "score": 0.16,
+            "reason": "𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗪𝗼𝗿𝗸 𝗦𝗽𝗮𝗰𝗲𝘀: Lets people know when guests may come in, so focused work and client-facing activity can coexist."
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Strict_Morning_Quiet_Time": [
+          {
+            "option": "Include",
+            "score": 0.04,
+            "reason": "𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗪𝗼𝗿𝗸 𝗦𝗽𝗮𝗰𝗲𝘀: Lets people get important work done early while meetings, guests, and workshops happen later."
           },
           {
             "option": "Exclude",
@@ -253,7 +277,7 @@
         "Guest_Meeting_Room_Adding_A_Divider": [
           {
             "option": "Include",
-            "score": 1.49,
+            "score": 0.37,
             "reason": "𝗘𝘃𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗠𝗲𝗲𝘁𝗶𝗻𝗴 𝗦𝗽𝗮𝗰𝗲: Useful for paid workshops, group exercises, and client conversations while keeping guests out of the main work area."
           },
           {
@@ -265,7 +289,7 @@
         "Large_Meeting_Table": [
           {
             "option": "Include",
-            "score": 0.9,
+            "score": 0.05,
             "reason": "𝗘𝘃𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗠𝗲𝗲𝘁𝗶𝗻𝗴 𝗦𝗽𝗮𝗰𝗲: Supports workshops, group activities, and client-facing sessions."
           },
           {
@@ -274,35 +298,11 @@
             "reason": ""
           }
         ],
-        "Strict_Visitor_Time_Windows": [
+        "Allow_Evening_Events": [
           {
             "option": "Include",
-            "score": 1.86,
-            "reason": "𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗪𝗼𝗿𝗸 𝗦𝗽𝗮𝗰𝗲𝘀: Lets people know when guests may come in, so focused work and client-facing activity can coexist."
-          },
-          {
-            "option": "Exclude",
-            "score": 0,
-            "reason": ""
-          }
-        ],
-        "Kitchen_As_Private_Call_Room": [
-          {
-            "option": "Include",
-            "score": 0.44,
-            "reason": "𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗪𝗼𝗿𝗸 𝗦𝗽𝗮𝗰𝗲𝘀: Prevents virtual meetings and client calls from spilling into the main work area."
-          },
-          {
-            "option": "Exclude",
-            "score": 0,
-            "reason": ""
-          }
-        ],
-        "Strict_Morning_Quiet_Time": [
-          {
-            "option": "Include",
-            "score": 0.42,
-            "reason": "𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗪𝗼𝗿𝗸 𝗦𝗽𝗮𝗰𝗲𝘀: Lets people get important work done early while meetings, guests, and workshops happen later."
+            "score": 0.01,
+            "reason": "𝗘𝘃𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗠𝗲𝗲𝘁𝗶𝗻𝗴 𝗦𝗽𝗮𝗰𝗲: Important for workshops and professional sessions that happen after normal work hours."
           },
           {
             "option": "Exclude",
@@ -313,20 +313,8 @@
         "Secondhand_Furniture": [
           {
             "option": "Include",
-            "score": -1.54,
+            "score": -1.03,
             "reason": "𝗖𝗼𝘀𝘁 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: Makes the office feel less polished and less appealing to clients or workshop participants."
-          },
-          {
-            "option": "Exclude",
-            "score": 0,
-            "reason": ""
-          }
-        ],
-        "Smaller_Office_Space": [
-          {
-            "option": "Include",
-            "score": -1.79,
-            "reason": "𝗖𝗼𝘀𝘁 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: Leaves too little room for events, workshops, and people moving around."
           },
           {
             "option": "Exclude",
@@ -337,8 +325,20 @@
         "Self_Managed_Cleaning": [
           {
             "option": "Include",
-            "score": -1.93,
+            "score": -1.21,
             "reason": "𝗖𝗼𝘀𝘁 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: Creates conflict and leaves too much guest, client, or workshop mess to handle casually."
+          },
+          {
+            "option": "Exclude",
+            "score": 0,
+            "reason": ""
+          }
+        ],
+        "Smaller_Office_Space": [
+          {
+            "option": "Include",
+            "score": -1.54,
+            "reason": "𝗖𝗼𝘀𝘁 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: Leaves too little room for events, workshops, and people moving around."
           },
           {
             "option": "Exclude",
@@ -697,6 +697,6 @@
       }
     ]
   },
-  "scenario_label": "hard",
+  "scenario_label": "easy",
   "payoff_source": "scaled"
 }
