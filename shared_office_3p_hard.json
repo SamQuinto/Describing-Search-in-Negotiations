@@ -8,7 +8,7 @@
         "Secondhand_Furniture": [
           {
             "option": "Include",
-            "score": 1.01,
+            "score": 8.53,
             "reason": "<b>Value for Money:</b> A shared office does not need to be fancy to function well."
           },
           {
@@ -20,7 +20,7 @@
         "Smaller_Office_Space": [
           {
             "option": "Include",
-            "score": 0.55,
+            "score": 4.65,
             "reason": "<b>Value for Money:</b> The office is mainly for individual work, so more space feels unnecessary."
           },
           {
@@ -32,7 +32,7 @@
         "Self_Managed_Cleaning": [
           {
             "option": "Include",
-            "score": 0.02,
+            "score": 0.15,
             "reason": "<b>Value for Money:</b> You already clean up after yourself, so professional cleaning feels like an avoidable cost."
           },
           {
@@ -44,7 +44,7 @@
         "Strict_Visitor_Time_Windows": [
           {
             "option": "Include",
-            "score": 0.8,
+            "score": 6.83,
             "reason": "<b>Focused Work Spaces:</b> Reduces distractions and makes interruptions more predictable."
           },
           {
@@ -56,7 +56,7 @@
         "Kitchen_as_Private_Call_Room": [
           {
             "option": "Include",
-            "score": 0.59,
+            "score": 5.04,
             "reason": "<b>Focused Work Spaces:</b> Keeps calls from spilling into the main work area."
           },
           {
@@ -68,7 +68,7 @@
         "Strict_Morning_Quiet_Time": [
           {
             "option": "Include",
-            "score": 0.26,
+            "score": 2.21,
             "reason": "<b>Focused Work Spaces:</b> Gives everyone a focused start to the day for their hardest tasks."
           },
           {
@@ -80,7 +80,7 @@
         "Guest_Meeting_Room": [
           {
             "option": "Include",
-            "score": -1.65,
+            "score": -13.99,
             "reason": "<b>Creative Breathing Room:</b> Divides up the office and makes it harder to move around, think, and write comfortably."
           },
           {
@@ -92,7 +92,7 @@
         "Large_Meeting_Table": [
           {
             "option": "Include",
-            "score": -2.1,
+            "score": -17.77,
             "reason": "<b>Creative Breathing Room:</b> Takes over floor space that you need to move through when you're thinking and working through ideas."
           },
           {
@@ -104,7 +104,7 @@
         "Allow_Evening_Events": [
           {
             "option": "Include",
-            "score": -2.16,
+            "score": -18.3,
             "reason": "<b>Creative Breathing Room:</b> Brings noise and visitors when you may need to work late, which is sometimes when inspiration hits."
           },
           {
@@ -123,7 +123,7 @@
         "Smaller_Office_Space": [
           {
             "option": "Include",
-            "score": 0.91,
+            "score": 7.68,
             "reason": "<b>Value for Money:</b> The smaller space is plenty for everyone’s daily needs, any more wastes money."
           },
           {
@@ -135,7 +135,7 @@
         "Secondhand_Furniture": [
           {
             "option": "Include",
-            "score": 0.54,
+            "score": 4.56,
             "reason": "<b>Value for Money:</b> More affordable and just as good as new furniture, nobody would know."
           },
           {
@@ -147,7 +147,7 @@
         "Self_Managed_Cleaning": [
           {
             "option": "Include",
-            "score": 0.31,
+            "score": 2.61,
             "reason": "<b>Value for Money:</b> Reduces costs and people can just clean up after themselves."
           },
           {
@@ -159,7 +159,7 @@
         "Allow_Evening_Events": [
           {
             "option": "Include",
-            "score": 0.68,
+            "score": 5.74,
             "reason": "<b>Events and Meeting Space:</b> Supports after-work socials and other sessions for students and tutors."
           },
           {
@@ -171,7 +171,7 @@
         "Large_Meeting_Table": [
           {
             "option": "Include",
-            "score": 0.23,
+            "score": 1.97,
             "reason": "<b>Events and Meeting Space:</b> Useful for collaboration, tutor-student work sessions, and family meetings."
           },
           {
@@ -183,7 +183,7 @@
         "Guest_Meeting_Room": [
           {
             "option": "Include",
-            "score": 0.21,
+            "score": 1.8,
             "reason": "<b>Events and Meeting Space:</b> Creates a better setup for meeting students, families, tutors, or clients."
           },
           {
@@ -195,7 +195,7 @@
         "Strict_Morning_Quiet_Time": [
           {
             "option": "Include",
-            "score": -0.59,
+            "score": -4.97,
             "reason": "<b>Client Engagement:</b> Need to coordinate, take quick calls, or have short conversations early in the day."
           },
           {
@@ -207,7 +207,7 @@
         "Strict_Visitor_Time_Windows": [
           {
             "option": "Include",
-            "score": -1.45,
+            "score": -12.31,
             "reason": "<b>Client Engagement:</b> Need flexibility to schedule meetings with clients and tutors."
           },
           {
@@ -219,7 +219,7 @@
         "Kitchen_as_Private_Call_Room": [
           {
             "option": "Include",
-            "score": -1.74,
+            "score": -14.8,
             "reason": "<b>Client Engagement:</b> Need an informal hospitality space for guests, and a break spot for you."
           },
           {
@@ -238,7 +238,7 @@
         "Allow_Evening_Events": [
           {
             "option": "Include",
-            "score": 1.88,
+            "score": 15.97,
             "reason": "<b>Events and Meeting Space:</b> Important for workshops after work hours."
           },
           {
@@ -250,7 +250,7 @@
         "Guest_Meeting_Room": [
           {
             "option": "Include",
-            "score": 1.49,
+            "score": 12.68,
             "reason": "<b>Events and Meeting Space:</b> A dedicated, professional space for workshops and client conversations."
           },
           {
@@ -262,7 +262,7 @@
         "Large_Meeting_Table": [
           {
             "option": "Include",
-            "score": 0.9,
+            "score": 7.66,
             "reason": "<b>Events and Meeting Space:</b> Supports workshops, group activities, and client-facing sessions."
           },
           {
@@ -274,7 +274,7 @@
         "Strict_Visitor_Time_Windows": [
           {
             "option": "Include",
-            "score": 1.86,
+            "score": 15.76,
             "reason": "<b>Focused Work Spaces:</b> It makes guests predictable, so that focused work and client-facing activity can coexist."
           },
           {
@@ -286,7 +286,7 @@
         "Kitchen_as_Private_Call_Room": [
           {
             "option": "Include",
-            "score": 0.44,
+            "score": 3.77,
             "reason": "<b>Focused Work Spaces:</b> Prevents virtual meetings and client calls from spilling into the main work area."
           },
           {
@@ -298,7 +298,7 @@
         "Strict_Morning_Quiet_Time": [
           {
             "option": "Include",
-            "score": 0.42,
+            "score": 3.54,
             "reason": "<b>Focused Work Spaces:</b> Lets people get important work done early before guests and other noisy activity."
           },
           {
@@ -310,7 +310,7 @@
         "Secondhand_Furniture": [
           {
             "option": "Include",
-            "score": -1.54,
+            "score": -13.1,
             "reason": "<b>Value for Money:</b> Makes the office feel less polished and less appealing to clients."
           },
           {
@@ -322,7 +322,7 @@
         "Smaller_Office_Space": [
           {
             "option": "Include",
-            "score": -1.79,
+            "score": -15.17,
             "reason": "<b>Value for Money:</b> Insufficient space for meetings and events, undermining professionalism."
           },
           {
@@ -334,7 +334,7 @@
         "Self_Managed_Cleaning": [
           {
             "option": "Include",
-            "score": -1.93,
+            "score": -16.33,
             "reason": "<b>Value for Money:</b> Creates conflict and introduces risks to professionalism."
           },
           {
