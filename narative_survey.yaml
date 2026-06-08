@@ -1,0 +1,116 @@
+scales:
+  agree_5:
+    - Strongly disagree
+    - Somewhat disagree
+    - Neither agree nor disagree
+    - Somewhat agree
+    - Strongly agree
+  difficulty_5:
+    - Very easy
+    - Somewhat easy
+    - Neither easy nor difficult
+    - Somewhat difficult
+    - Very difficult
+
+questions:
+  - id: q1
+    n: 1
+    type: likert
+    scale: agree_5
+    label: "The scenario gave me a clear understanding of what matters to my role."
+
+  - id: q2
+    n: 2
+    type: likert
+    scale: agree_5
+    label: "The scenario gave me a clear understanding of what would matter to the other two people."
+
+  - id: q3
+    n: 3
+    type: likert
+    scale: agree_5
+    label: "The role was easy to read and understand."
+
+  - id: q4
+    n: 4
+    type: likert
+    scale: agree_5
+    label: "It would be easy to get into character using this information."
+
+  - id: q5
+    n: 5
+    type: likert
+    scale: agree_5
+    label: "The preferences assigned to my role made sense."
+
+  - id: q6
+    n: 6
+    type: multi_select
+    label: "What are the main priorities of your role? Please select two."
+    hint: "Select two"
+    options:
+      - Keeping costs low / getting value for money
+      - Protecting quiet, focused work time
+      - Supporting meetings, events, workshops, or client-facing activities
+
+  - id: q7
+    n: 7
+    type: single_select
+    style: pills
+    label: "Did any part of the role description feel contradictory, unnatural, or forced?"
+    options: [No, Yes]
+    followup:
+      when: "Yes"
+      id: q7_explain
+      placeholder: "Please explain…"
+
+  - id: q8
+    n: 8
+    type: multi_select
+    label: "Which office features would the Corporate Trainer prefer to include in the deal? Check all that apply."
+    hint: "Check all that apply"
+    options:
+      - Secondhand Furniture
+      - Self Managed Cleaning
+      - Smaller Office Space
+      - Strict Visitor Time Windows
+      - Kitchen as Private Call Room
+      - Strict Morning Quiet Time
+      - Large Meeting Table
+      - Allow Evening Events
+      - Guest Meeting Room
+
+  - id: q9
+    n: 9
+    type: likert
+    scale: difficulty_5
+    label: "How difficult do you think it would be for your role to reach an agreement with the two other people?"
+
+  - id: q10
+    n: 10
+    type: single_select
+    label: "What do you think would matter most to the other two people in the negotiation? Select the best answer."
+    options:
+      - Keeping costs low / getting value for money
+      - Protecting quiet, focused work time
+      - Supporting meetings, events, workshops, or client-facing activities
+
+  - id: q11
+    n: 11
+    type: open_text
+    label: "What do you think would be the main source of tension that could make agreement difficult?"
+
+  - id: q13
+    n: 13
+    type: open_text
+    label: "If you were starting the negotiation, briefly describe what your opening offer would look like and why."
+
+  - id: q14
+    n: 14
+    type: open_text
+    label: "What, if anything, should we change to make the role or scenario clearer before using it in the main experiment?"
+
+  - id: q15
+    n: 15
+    type: open_text
+    label: "Any other feedback?"
