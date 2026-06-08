@@ -66,9 +66,22 @@ questions:
 
   - id: q8
     n: 8
+    type: single_select
+    style: pills
+    label: "Do you think reaching an agreement would be possible in this negotiation?"
+    options: [Yes, No, Not sure]
+
+  - id: q9
+    n: 9
+    type: likert
+    scale: difficulty_5
+    label: "How difficult do you think it would be for your role to reach an agreement with the two other people?"
+
+  - id: q10
+    n: 10
     type: multi_select
     label: "Which office features would the Corporate Trainer prefer to include in the deal? Check all that apply."
-    hint: "Check all that apply"
+    hint: "Note: There is a correct answer here. If you answer correctly, you will receive a 50% bonus."
     options:
       - Secondhand Furniture
       - Self Managed Cleaning
@@ -79,21 +92,6 @@ questions:
       - Large Meeting Table
       - Allow Evening Events
       - Guest Meeting Room
-
-  - id: q9
-    n: 9
-    type: likert
-    scale: difficulty_5
-    label: "How difficult do you think it would be for your role to reach an agreement with the two other people?"
-
-  - id: q10
-    n: 10
-    type: single_select
-    label: "What do you think would matter most to the other two people in the negotiation? Select the best answer."
-    options:
-      - Keeping costs low / getting value for money
-      - Protecting quiet, focused work time
-      - Supporting meetings, events, workshops, or client-facing activities
 
   - id: q11
     n: 11
