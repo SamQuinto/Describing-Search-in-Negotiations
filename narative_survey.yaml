@@ -80,8 +80,7 @@ questions:
   - id: q10
     n: 10
     type: multi_select
-    label: "Which office features would the Corporate Trainer prefer to include in the deal? Check all that apply."
-    hint: "Note: There is a correct answer here. If you answer correctly, you will receive a 50% bonus."
+    label: "Which office features would the Corporate Trainer prefer to include in the deal? Check all that apply. Note: There is a correct answer here. If you answer correctly, you will receive a 50% bonus."
     options:
       - Secondhand Furniture
       - Self Managed Cleaning
