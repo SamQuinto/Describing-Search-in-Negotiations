@@ -16,6 +16,8 @@ The research team’s private OneDrive project is **Exploratory pilot data**. Op
 
 Tables are pooled by negotiation family. Filter `dataset_id` for a specific collection. `group_id` identifies the negotiation and `matrix_id` identifies the payoff table associated with it.
 
+The pooled behavioral tables use closed live negotiations where every assigned person made or voted on a proposal, or had verified speech about the negotiation. The catalog gives the agreement rates for the full eligible pilot samples. Alpha-1, Alpha-2 and the April vacation pilot are available for historical comparisons. Their time and offer records sit outside the default behavioral tables. The private collection audit gives the reasons and the group audit records eligibility for each started group.
+
 | File | Unit and join |
 |---|---|
 | `groups.csv` | One row per negotiation group. Join on dataset and group ID. |
